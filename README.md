@@ -1,5 +1,5 @@
 
-# linux-notes (versión B)
+# linux-notes (versión A)
 
 Notas de mi formación Cloud / DevOps.
 
